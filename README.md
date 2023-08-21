@@ -1,8 +1,8 @@
 # PhysMAR 101
-Um bootcamp computacional para novos membros do grupo. Em desenvolvimento por Cesar e Jose Roberto.
+Um bootcamp computacional para novos membros do grupo. Em desenvolvimento.
 
 
 ### Programa
-| Conteudo         | Comentario                             |
+| Conteúdo         | Comentário                             |
 |:--------------------------|:---------------------------------|
-| Tutorial 1: [Introducao ao Python](python/01_python_basico.ipynb)       |           |
+| Tutorial 1: [Introdução ao Python](python/01_python_basico.ipynb)       |           |
