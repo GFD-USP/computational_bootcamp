@@ -11,3 +11,4 @@ Um bootcamp computacional para novos membros do grupo. Em desenvolvimento.
 | Prática 2: [Manipulação e visualização de dados BCG Argo](python/04_visualizacao_perfis_argo.ipynb)       |           |
 | Tutorial 3: [Pandas para dados tabulares](python/05_pandas.ipynb)| |
 | Prática 3: [Estimativa do aumento do nível do mar em Cananéia](python/06_nivel_do_mar_cananeia.ipynb) | |
+| Tutorial 4: [Dados multidimensionais com xarray](python/07_intro_xarray.ipynb) | |
