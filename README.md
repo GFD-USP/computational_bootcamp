@@ -13,3 +13,5 @@ Um bootcamp computacional para novos membros do grupo. Em desenvolvimento.
 | Prática 3: [Estimativa do aumento do nível do mar em Cananéia](python/06_nivel_do_mar_cananeia.ipynb) | |
 | Tutorial 4: [Dados multidimensionais com xarray](python/07_intro_xarray.ipynb) | |
 | Prática 4: [Estimativa do aumento do nível do mar no oceano mundial](python/08_niveldomar_altimetro.ipynb) | |
+| Tutorial 5: [Mais sobre x-array](python/09_mais_sobre_xarray.ipynb) | |
+| Prática 5: [Estimativa do aumento do nível do mar no oceano mundial](python/10_conteudodecalor_oceano.ipynb) | |
