@@ -15,3 +15,6 @@ Um bootcamp computacional para novos membros do grupo. Em desenvolvimento.
 | Prática 4: [Estimativa do aumento do nível do mar no oceano mundial](python/08_niveldomar_altimetro.ipynb) | |
 | Tutorial 5: [Mais sobre x-array](python/09_mais_sobre_xarray.ipynb) | |
 | Prática 5: [Estimativa de aumento do conteúdo de calor no oceano mundial](python/10_conteudodecalor_oceano.ipynb) | |
+| Tutorial 6: [Fazendo mapas com Cartopy](python/11_cartopy.ipynb) | |
+| Prática 6: [Mapa de sua região de estudo](python/11_mapa_estudo.ipynb) | |
+
